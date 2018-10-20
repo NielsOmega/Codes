@@ -1,0 +1,11 @@
+name: kelly_dax
+title: Kelly_Dax
+account: nielsomega
+server: shinyapps.io
+appId: 205088
+bundleId: 942054
+url: https://nielsomega.shinyapps.io/kelly_dax/
+when: 1502825504.94673
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Dax.xlsx|Stable.xlsx
